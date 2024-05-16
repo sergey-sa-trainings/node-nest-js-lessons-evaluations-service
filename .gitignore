@@ -1,0 +1,10 @@
+# coverage results
+/coverage
+
+# Node.js Tools
+node_modules/
+
+# Local
+.env
+dist
+package-lock.json
